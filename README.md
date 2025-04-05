@@ -47,7 +47,7 @@ As a passionate and results-driven **Frontend Engineer** with over **3 years of 
 ---
 
 ### 🛠️ What I’m Working On
-- 🧠 Building an enterprise Islamic finance app for Zakat & inheritance (meerath-ai/MeerathAI-FE)
+- 🧠 Building an enterprise Islamic finance app for Zakat & inheritance (Meerath)
 - ✨ Open to **short-term freelance** or **solo projects** (especially frontend or WordPress)
 
 ---
