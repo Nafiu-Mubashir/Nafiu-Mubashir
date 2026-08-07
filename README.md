@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Nafiu Mubashir
 
 ### 🚀 Frontend Engineer | Problem-Solver | UI Enthusiast  
-[![Portfolio](https://img.shields.io/badge/🌐%20mubashir-nafiu-portfolio.vercel.app-informational)]([https://mubashir-lemon.vercel.app/](https://mubashir-nafiu-portfolio.vercel.app/))  
+[![Portfolio](https://img.shields.io/badge/🌐%20mubashir-nafiu-portfolio.vercel.app-informational)](https://mubashir-nafiu-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue)](https://www.linkedin.com/in/nafiu-mubashir/)  
 [![Freelance](https://img.shields.io/badge/🚀%20Freelance-Available-brightgreen)](#)  
 [![Full-time](https://img.shields.io/badge/💼%20Open%20to-Full--Time%20Roles-blueviolet)](#)  
