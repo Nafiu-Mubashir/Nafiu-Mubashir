@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Nafiu Mubashir
 
 ### 🚀 Frontend Engineer | Problem-Solver | UI Enthusiast  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mubashir--lemon.vercel.app-informational)](https://mubashir-lemon.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/🌐%20mubashir-nafiu-portfolio.vercel.app-informational)]([https://mubashir-lemon.vercel.app/](https://mubashir-nafiu-portfolio.vercel.app/))  
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue)](https://www.linkedin.com/in/nafiu-mubashir/)  
 [![Freelance](https://img.shields.io/badge/🚀%20Freelance-Available-brightgreen)](#)  
 [![Full-time](https://img.shields.io/badge/💼%20Open%20to-Full--Time%20Roles-blueviolet)](#)  
@@ -14,7 +14,7 @@ As a passionate and results-driven **Frontend Engineer** with over **3 years of 
 
 ⚙️ My expertise lies in crafting scalable and responsive UIs using modern tools like **React**, **TypeScript**, and **Tailwind CSS**.
 
-💡 What sets me apart is my **problem-solving mindset**—I don’t just write code, I build thoughtful, elegant solutions that solve real problems and resonate with users.
+💡 What sets me apart is my **problem-solving mindset**—I don’t just write code; I build thoughtful, elegant solutions that solve real problems and resonate with users.
 
 🤝 Whether collaborating in cross-functional teams or working independently, I blend **creativity, technical excellence**, and **a passion for clean UX/UI** in everything I do.
 
